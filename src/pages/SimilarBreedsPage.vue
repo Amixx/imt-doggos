@@ -18,7 +18,7 @@
     </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 const breeds = [
     {
         name: "Icelandic Sheepdog",
