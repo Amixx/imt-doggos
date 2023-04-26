@@ -8,6 +8,7 @@ import { RouterLink, RouterView } from 'vue-router'
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/gallery">Gallery</RouterLink>
+        <RouterLink to="/article">Article</RouterLink>
       </nav>
     </div>
   </header>
@@ -22,9 +23,9 @@ header {
 
 nav {
   width: 100%;
+  padding: 16px 48px;
   font-size: 12px;
   text-align: center;
-  margin-top: 2rem;
 }
 
 nav a.router-link-exact-active {
@@ -46,12 +47,6 @@ nav a:first-of-type {
 }
 
 @media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
-
   header .wrapper {
     display: flex;
     place-items: flex-start;
@@ -60,11 +55,7 @@ nav a:first-of-type {
 
   nav {
     text-align: left;
-    margin-left: -1rem;
     font-size: 1rem;
-
-    padding: 1rem 0;
-    margin-top: 1rem;
   }
 }
 </style>

@@ -1,7 +1,10 @@
 <template>
-    <div class="dog-images-grid">
-        <img v-for="(url, index) in dogImages" :key="index" :src="url" :alt="'Dog ' + (index + 1)" />
-    </div>
+    <main>
+        <h1>Dogs in Focus: A Showcase of Stunning Canine Photography</h1>
+        <div class="dog-images-grid">
+            <img v-for="(url, index) in dogImages" :key="index" :src="url" :alt="'Dog ' + (index + 1)" />
+        </div>
+    </main>
 </template>
 
 <script setup>
@@ -29,6 +32,14 @@ onMounted(() => {
 </script>
 
 <style scoped>
+main {
+    padding: 24px 48px;
+}
+
+h1 {
+    text-align: center;
+}
+
 .dog-images-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
