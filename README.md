@@ -1,6 +1,6 @@
 # imt-doggos
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a small site about the Finnish Spitz dog breed.
 
 ## Recommended IDE Setup
 
