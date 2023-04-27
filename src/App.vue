@@ -10,6 +10,7 @@ import { RouterLink, RouterView } from 'vue-router'
         <RouterLink to="/gallery">Gallery</RouterLink>
         <RouterLink to="/article">Article</RouterLink>
         <RouterLink to="/similar-breeds">Similar breeds</RouterLink>
+        <RouterLink to="/care">Caring tips and mistakes</RouterLink>
       </nav>
     </div>
   </header>
