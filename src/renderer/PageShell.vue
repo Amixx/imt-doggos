@@ -15,11 +15,10 @@
 import Link from './Link.vue'
 import '../assets/main.css'
 
-import { BASE_PATH } from "../../global";
 const navItems = [
   {
     name: 'Home',
-    path: `${BASE_PATH}`
+    path: import.meta.env.BASE_URL
   },
   {
     name: 'Gallery',
