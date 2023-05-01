@@ -1,0 +1,180 @@
+{
+  "_chunk-1572f322.js": {
+    "file": "assets/chunks/chunk-1572f322.js"
+  },
+  "_chunk-49fe9c23.js": {
+    "file": "assets/chunks/chunk-49fe9c23.js"
+  },
+  "_chunk-c27b6911.js": {
+    "file": "assets/chunks/chunk-c27b6911.js"
+  },
+  "node_modules/vite-plugin-ssr/dist/esm/client/entry.js": {
+    "dynamicImports": [
+      "src/pages/article.page.vue",
+      "src/pages/care.page.vue",
+      "src/pages/gallery.page.vue",
+      "src/pages/index.page.vue",
+      "src/pages/similar-breeds.page.vue",
+      "src/renderer/_error.page.vue",
+      "src/renderer/_default.page.client.ts"
+    ],
+    "file": "assets/entries/entry-server-routing.33bf03c5.js",
+    "imports": [
+      "_chunk-49fe9c23.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/vite-plugin-ssr/dist/esm/client/entry.js"
+  },
+  "node_modules/vite-plugin-ssr/dist/esm/client/router/entry.js": {
+    "dynamicImports": [
+      "src/pages/article.page.vue",
+      "src/pages/care.page.vue",
+      "src/pages/gallery.page.vue",
+      "src/pages/index.page.vue",
+      "src/pages/similar-breeds.page.vue",
+      "src/renderer/_error.page.vue",
+      "src/renderer/_default.page.client.ts"
+    ],
+    "file": "assets/entries/entry-client-routing.afe49920.js",
+    "imports": [
+      "_chunk-49fe9c23.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/vite-plugin-ssr/dist/esm/client/router/entry.js"
+  },
+  "src/assets/images/hero.jpg": {
+    "file": "assets/static/hero.737dd5b7.jpg",
+    "src": "src/assets/images/hero.jpg"
+  },
+  "src/assets/images/spitz-1.jpg": {
+    "file": "assets/static/spitz-1.d56fe654.jpg",
+    "src": "src/assets/images/spitz-1.jpg"
+  },
+  "src/assets/images/spitz-2.jpg": {
+    "file": "assets/static/spitz-2.1b13e2bb.jpg",
+    "src": "src/assets/images/spitz-2.jpg"
+  },
+  "src/assets/images/spitz-3.jpg": {
+    "file": "assets/static/spitz-3.bf1b349a.jpg",
+    "src": "src/assets/images/spitz-3.jpg"
+  },
+  "src/pages/article.page.css": {
+    "file": "assets/static/article.page.18925255.css",
+    "src": "src/pages/article.page.css"
+  },
+  "src/pages/article.page.vue": {
+    "assets": [
+      "assets/static/spitz-1.d56fe654.jpg",
+      "assets/static/spitz-2.1b13e2bb.jpg",
+      "assets/static/spitz-3.bf1b349a.jpg"
+    ],
+    "css": [
+      "assets/static/article.page.18925255.css"
+    ],
+    "file": "assets/entries/src_pages_article.page.2f2cf21c.js",
+    "imports": [
+      "_chunk-c27b6911.js",
+      "_chunk-1572f322.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "src/pages/article.page.vue"
+  },
+  "src/pages/care.page.css": {
+    "file": "assets/static/care.page.381cc861.css",
+    "src": "src/pages/care.page.css"
+  },
+  "src/pages/care.page.vue": {
+    "css": [
+      "assets/static/care.page.381cc861.css"
+    ],
+    "file": "assets/entries/src_pages_care.page.05c33655.js",
+    "imports": [
+      "_chunk-c27b6911.js",
+      "_chunk-1572f322.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "src/pages/care.page.vue"
+  },
+  "src/pages/gallery.page.css": {
+    "file": "assets/static/gallery.page.aeb6cc4d.css",
+    "src": "src/pages/gallery.page.css"
+  },
+  "src/pages/gallery.page.vue": {
+    "css": [
+      "assets/static/gallery.page.aeb6cc4d.css"
+    ],
+    "file": "assets/entries/src_pages_gallery.page.61b20b79.js",
+    "imports": [
+      "_chunk-1572f322.js",
+      "_chunk-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "src/pages/gallery.page.vue"
+  },
+  "src/pages/index.page.css": {
+    "file": "assets/static/index.page.691d6251.css",
+    "src": "src/pages/index.page.css"
+  },
+  "src/pages/index.page.vue": {
+    "assets": [
+      "assets/static/hero.737dd5b7.jpg"
+    ],
+    "css": [
+      "assets/static/index.page.691d6251.css"
+    ],
+    "file": "assets/entries/src_pages_index.page.4f53c53c.js",
+    "imports": [
+      "_chunk-c27b6911.js",
+      "_chunk-1572f322.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "src/pages/index.page.vue"
+  },
+  "src/pages/similar-breeds.page.css": {
+    "file": "assets/static/similar-breeds.page.fcacd180.css",
+    "src": "src/pages/similar-breeds.page.css"
+  },
+  "src/pages/similar-breeds.page.vue": {
+    "css": [
+      "assets/static/similar-breeds.page.fcacd180.css"
+    ],
+    "file": "assets/entries/src_pages_similar-breeds.page.2f52a1cc.js",
+    "imports": [
+      "_chunk-1572f322.js",
+      "_chunk-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "src/pages/similar-breeds.page.vue"
+  },
+  "src/renderer/_default.page.client.css": {
+    "file": "assets/static/default.page.client.efc38b24.css",
+    "src": "src/renderer/_default.page.client.css"
+  },
+  "src/renderer/_default.page.client.ts": {
+    "css": [
+      "assets/static/default.page.client.efc38b24.css"
+    ],
+    "file": "assets/entries/src_renderer_default.page.client.74d6cde6.js",
+    "imports": [
+      "_chunk-1572f322.js",
+      "_chunk-c27b6911.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "src/renderer/_default.page.client.ts"
+  },
+  "src/renderer/_error.page.vue": {
+    "file": "assets/entries/src_renderer_error.page.eb7caf16.js",
+    "imports": [
+      "_chunk-1572f322.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "src/renderer/_error.page.vue"
+  }
+}

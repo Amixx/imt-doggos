@@ -1,0 +1,8 @@
+{
+  "version": "0.4.120",
+  "usesClientRouter": false,
+  "manifestKeyMap": {},
+  "baseServer": "/imt-doggos/",
+  "baseAssets": "/imt-doggos/",
+  "includeAssetsImportedByServer": false
+}
