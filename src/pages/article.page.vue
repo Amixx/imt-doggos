@@ -1,5 +1,5 @@
 <template>
-    <div class="finnish-spitz-page" vocab="https://schema.org/" typeof="WebPage">
+    <article class="finnish-spitz-page" vocab="https://schema.org/" typeof="WebPage">
       <h1 class="title" property="name">Finnish Spitz: The National Dog of Finland</h1>
 
       <img class="image-placeholder" src="@/assets/images/spitz-1.jpg" alt="Finnish Spitz" property="primaryImageOfPage"/>
@@ -45,7 +45,14 @@
           healthy. Their dense double coat requires weekly brushing to remove loose hair and minimize shedding.
         </p>
       </div>
-    </div>
+      <div typeof="AggregateRating">
+        <h2 property="name">Overall Rating</h2>
+        <p>
+          Finnish Spitz gets an average rating of <span property="ratingValue">4.5</span> out of <span property="bestRating">5</span>.
+        </p>
+        <meta property="ratingCount" content="100" />
+      </div>
+    </article>
 </template>
 
 <style scoped>
