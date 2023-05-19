@@ -1,11 +1,15 @@
 <template>
-  <div class="similar-breeds-page">
-    <h1 class="title">Similar Breeds to the Finnish Spitz: Pros and Cons</h1>
-    <ul>
-      <li v-for="(breed, index) in breeds" :key="index" class="breed-section">
-        <img class="image-placeholder" :src="'https://via.placeholder.com/300x200'" :alt="breed.name" />
-        <h2>{{ breed.name }}</h2>
-        <p>{{ breed.description }}</p>
+  <div class="similar-breeds-page" vocab="https://schema.org/" typeof="CollectionPage">
+    <h1 class="title" property="name">Similar Breeds to the Finnish Spitz: Pros and Cons</h1>
+    <ul property="hasPart">
+      <li v-for="(breed, index) in breeds" :key="index" class="breed-section" typeof="Product">
+        <img
+          class="image-placeholder"
+          :src="'https://via.placeholder.com/300x200'"
+          :alt="breed.name"
+          property="image" />
+        <h2 property="name">{{ breed.name }}</h2>
+        <p property="description">{{ breed.description }}</p>
         <h3>Pros</h3>
         <ul>
           <li v-for="(pro, proIndex) in breed.pros" :key="proIndex">{{ pro }}</li>
@@ -14,7 +18,9 @@
         <ul>
           <li v-for="(con, conIndex) in breed.cons" :key="conIndex">{{ con }}</li>
         </ul>
-        <Rating :rating="breed.rating" />
+        <div property="aggregateRating" typeof="AggregateRating">
+          <Rating :rating="breed.rating" />
+        </div>
       </li>
     </ul>
   </div>
