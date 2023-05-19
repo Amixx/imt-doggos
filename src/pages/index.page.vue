@@ -1,4 +1,7 @@
 <template>
+  <p vocab="http://schema.org/" typeof="Person">
+    Hi, I’m <span property="name">Alice</span>.
+  </p>
     <div class="landing-page">
         <div class="hero-section">
             <img class="hero-image" src="@/assets/images/hero.jpg" alt="Finnish Spitz" />
