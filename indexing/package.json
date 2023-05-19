@@ -1,0 +1,15 @@
+{
+  "name": "indexing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indexing.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "googleapis": "^118.0.0",
+    "request": "^2.88.2"
+  }
+}
