@@ -47,8 +47,8 @@
         walks, play sessions, and engaging activities like agility or obedience training can help keep them happy and
         healthy. Their dense double coat requires weekly brushing to remove loose hair and minimize shedding.
       </p>
+      <Rating :rating="{ breedName: 'Finnish Spitz', ratingValue: 4.8, bestRating: 5 }" />
     </div>
-    <Rating :rating="{ breedName: 'Finnish Spitz', ratingValue: 4.8, bestRating: 5 }" />
   </article>
 </template>
 
