@@ -24,7 +24,7 @@
       "src/renderer/_error.page.vue",
       "src/renderer/_default.page.client.ts"
     ],
-    "file": "assets/entries/entry-server-routing.a7bb90f1.js",
+    "file": "assets/entries/entry-server-routing.45ae1ff0.js",
     "imports": [
       "_chunk-e027ba8d.js"
     ],
@@ -41,7 +41,7 @@
       "src/renderer/_error.page.vue",
       "src/renderer/_default.page.client.ts"
     ],
-    "file": "assets/entries/entry-client-routing.59f1ee04.js",
+    "file": "assets/entries/entry-client-routing.7235e228.js",
     "imports": [
       "_chunk-e027ba8d.js"
     ],
@@ -142,14 +142,14 @@
     "src": "src/pages/index.page.vue"
   },
   "src/pages/similar-breeds.page.css": {
-    "file": "assets/static/similar-breeds.page.8fbf8f08.css",
+    "file": "assets/static/similar-breeds.page.77d25a0d.css",
     "src": "src/pages/similar-breeds.page.css"
   },
   "src/pages/similar-breeds.page.vue": {
     "css": [
-      "assets/static/similar-breeds.page.8fbf8f08.css"
+      "assets/static/similar-breeds.page.77d25a0d.css"
     ],
-    "file": "assets/entries/src_pages_similar-breeds.page.bddf48cb.js",
+    "file": "assets/entries/src_pages_similar-breeds.page.eb59ab44.js",
     "imports": [
       "_chunk-5ee7714d.js",
       "_chunk-b5dbc5eb.js",
