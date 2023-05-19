@@ -22,19 +22,19 @@ const navItems = [
   },
   {
     name: 'Gallery',
-    path: `gallery`
+    path: import.meta.env.BASE_URL + `gallery`
   },
   {
     name: 'Article',
-    path: `article`
+    path: import.meta.env.BASE_URL + `article`
   },
   {
     name: 'Similar breeds',
-    path: `similar-breeds`
+    path: import.meta.env.BASE_URL + `similar-breeds`
   },
   {
     name: 'Caring tips and mistakes',
-    path: `care`
+    path: import.meta.env.BASE_URL + `care`
   }
 ]
 </script>
