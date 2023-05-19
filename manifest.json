@@ -18,7 +18,7 @@
       "src/renderer/_error.page.vue",
       "src/renderer/_default.page.client.ts"
     ],
-    "file": "assets/entries/entry-server-routing.9263b0e4.js",
+    "file": "assets/entries/entry-server-routing.f87216ac.js",
     "imports": [
       "_chunk-e027ba8d.js"
     ],
@@ -35,7 +35,7 @@
       "src/renderer/_error.page.vue",
       "src/renderer/_default.page.client.ts"
     ],
-    "file": "assets/entries/entry-client-routing.9a77af89.js",
+    "file": "assets/entries/entry-client-routing.944188d9.js",
     "imports": [
       "_chunk-e027ba8d.js"
     ],
@@ -152,14 +152,14 @@
     "src": "src/pages/similar-breeds.page.vue"
   },
   "src/renderer/_default.page.client.css": {
-    "file": "assets/static/default.page.client.91a759e5.css",
+    "file": "assets/static/default.page.client.32ed80cb.css",
     "src": "src/renderer/_default.page.client.css"
   },
   "src/renderer/_default.page.client.ts": {
     "css": [
-      "assets/static/default.page.client.91a759e5.css"
+      "assets/static/default.page.client.32ed80cb.css"
     ],
-    "file": "assets/entries/src_renderer_default.page.client.d6729dd2.js",
+    "file": "assets/entries/src_renderer_default.page.client.6e6ddd95.js",
     "imports": [
       "_chunk-7e029fe3.js",
       "_chunk-c27b6911.js"
