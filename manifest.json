@@ -1,9 +1,9 @@
 {
-  "_chunk-1572f322.js": {
-    "file": "assets/chunks/chunk-1572f322.js"
-  },
   "_chunk-49fe9c23.js": {
     "file": "assets/chunks/chunk-49fe9c23.js"
+  },
+  "_chunk-7e029fe3.js": {
+    "file": "assets/chunks/chunk-7e029fe3.js"
   },
   "_chunk-c27b6911.js": {
     "file": "assets/chunks/chunk-c27b6911.js"
@@ -18,7 +18,7 @@
       "src/renderer/_error.page.vue",
       "src/renderer/_default.page.client.ts"
     ],
-    "file": "assets/entries/entry-server-routing.e1d774d1.js",
+    "file": "assets/entries/entry-server-routing.39eec322.js",
     "imports": [
       "_chunk-49fe9c23.js"
     ],
@@ -35,7 +35,7 @@
       "src/renderer/_error.page.vue",
       "src/renderer/_default.page.client.ts"
     ],
-    "file": "assets/entries/entry-client-routing.a5ca7f49.js",
+    "file": "assets/entries/entry-client-routing.d6976b9b.js",
     "imports": [
       "_chunk-49fe9c23.js"
     ],
@@ -71,10 +71,10 @@
     "css": [
       "assets/static/article.page.18925255.css"
     ],
-    "file": "assets/entries/src_pages_article.page.2f2cf21c.js",
+    "file": "assets/entries/src_pages_article.page.1115c698.js",
     "imports": [
       "_chunk-c27b6911.js",
-      "_chunk-1572f322.js"
+      "_chunk-7e029fe3.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
@@ -88,10 +88,10 @@
     "css": [
       "assets/static/care.page.381cc861.css"
     ],
-    "file": "assets/entries/src_pages_care.page.05c33655.js",
+    "file": "assets/entries/src_pages_care.page.9258a1ef.js",
     "imports": [
       "_chunk-c27b6911.js",
-      "_chunk-1572f322.js"
+      "_chunk-7e029fe3.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
@@ -105,9 +105,9 @@
     "css": [
       "assets/static/gallery.page.aeb6cc4d.css"
     ],
-    "file": "assets/entries/src_pages_gallery.page.61b20b79.js",
+    "file": "assets/entries/src_pages_gallery.page.bc5500f9.js",
     "imports": [
-      "_chunk-1572f322.js",
+      "_chunk-7e029fe3.js",
       "_chunk-c27b6911.js"
     ],
     "isDynamicEntry": true,
@@ -115,7 +115,7 @@
     "src": "src/pages/gallery.page.vue"
   },
   "src/pages/index.page.css": {
-    "file": "assets/static/index.page.691d6251.css",
+    "file": "assets/static/index.page.188387a3.css",
     "src": "src/pages/index.page.css"
   },
   "src/pages/index.page.vue": {
@@ -123,12 +123,12 @@
       "assets/static/hero.737dd5b7.jpg"
     ],
     "css": [
-      "assets/static/index.page.691d6251.css"
+      "assets/static/index.page.188387a3.css"
     ],
-    "file": "assets/entries/src_pages_index.page.4f53c53c.js",
+    "file": "assets/entries/src_pages_index.page.3b7bff0a.js",
     "imports": [
       "_chunk-c27b6911.js",
-      "_chunk-1572f322.js"
+      "_chunk-7e029fe3.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
@@ -142,9 +142,9 @@
     "css": [
       "assets/static/similar-breeds.page.fcacd180.css"
     ],
-    "file": "assets/entries/src_pages_similar-breeds.page.2f52a1cc.js",
+    "file": "assets/entries/src_pages_similar-breeds.page.74b5af33.js",
     "imports": [
-      "_chunk-1572f322.js",
+      "_chunk-7e029fe3.js",
       "_chunk-c27b6911.js"
     ],
     "isDynamicEntry": true,
@@ -159,9 +159,9 @@
     "css": [
       "assets/static/default.page.client.91a759e5.css"
     ],
-    "file": "assets/entries/src_renderer_default.page.client.59ce817b.js",
+    "file": "assets/entries/src_renderer_default.page.client.d6729dd2.js",
     "imports": [
-      "_chunk-1572f322.js",
+      "_chunk-7e029fe3.js",
       "_chunk-c27b6911.js"
     ],
     "isDynamicEntry": true,
@@ -169,9 +169,9 @@
     "src": "src/renderer/_default.page.client.ts"
   },
   "src/renderer/_error.page.vue": {
-    "file": "assets/entries/src_renderer_error.page.eb7caf16.js",
+    "file": "assets/entries/src_renderer_error.page.ced3608c.js",
     "imports": [
-      "_chunk-1572f322.js"
+      "_chunk-7e029fe3.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
