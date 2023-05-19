@@ -18,9 +18,7 @@
         <ul>
           <li v-for="(con, conIndex) in breed.cons" :key="conIndex">{{ con }}</li>
         </ul>
-        <div property="aggregateRating" typeof="AggregateRating">
-          <Rating :rating="breed.rating" />
-        </div>
+        <Rating :rating="breed.rating" />
       </li>
     </ul>
   </div>
