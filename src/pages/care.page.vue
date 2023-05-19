@@ -80,6 +80,7 @@ export const documentProps = {
   title: "Caring Tips and Mistakes",
   description: "Explore our detailed guide on caring for a Finnish Spitz. Discover essential tips on diet, exercise, socialization, and grooming, and learn common mistakes to avoid for your Finnish Spitz's health and happiness."
 };
+export default {}
 </script>
 
 <style scoped>
