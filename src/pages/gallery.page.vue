@@ -11,6 +11,12 @@
   </main>
 </template>
 
+<script lang="ts">
+export const documentProps = {
+  title: "Gallery",
+  description: "Immerse yourself in 'Dogs in Focus', a showcase featuring stunning canine photography. Browse through a wide collection of beautiful, high-quality dog images captured in various scenarios and settings."
+};
+</script>
 <script setup lang="ts">
 import { ref, onMounted } from "vue";
 

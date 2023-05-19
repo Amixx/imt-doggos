@@ -52,9 +52,17 @@
   </article>
 </template>
 
+<script lang="ts">
+export const documentProps = {
+  title: "Article",
+  description: "Learn about the Finnish Spitz, the national dog of Finland. Discover its distinctive look, temperament, training needs, and care tips. The page also features a user-based rating of the breed."
+};
+</script>
 <script setup lang="ts">
 import Rating from "../components/Rating.vue";
 </script>
+
+
 
 <style scoped>
 .finnish-spitz-page {

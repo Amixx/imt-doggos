@@ -20,6 +20,12 @@
   </div>
 </template>
 
+<script lang="ts">
+export const documentProps = {
+  title: "Similar Breeds",
+  description: "Explore breeds similar to the Finnish Spitz. Learn about the characteristics, pros, and cons of each breed, and compare their features to find the perfect canine companion that suits your lifestyle. Each breed is rated based on various factors to help you make an informed decision."
+};
+</script>
 <script setup lang="ts">
 import Rating from "@/components/Rating.vue";
 
