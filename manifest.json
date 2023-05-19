@@ -1,15 +1,15 @@
 {
-  "_chunk-b1dc20a8.js": {
-    "file": "assets/chunks/chunk-b1dc20a8.js"
+  "_chunk-5ee7714d.js": {
+    "file": "assets/chunks/chunk-5ee7714d.js",
+    "imports": [
+      "_chunk-b5dbc5eb.js"
+    ]
+  },
+  "_chunk-b5dbc5eb.js": {
+    "file": "assets/chunks/chunk-b5dbc5eb.js"
   },
   "_chunk-c27b6911.js": {
     "file": "assets/chunks/chunk-c27b6911.js"
-  },
-  "_chunk-c95650c5.js": {
-    "file": "assets/chunks/chunk-c95650c5.js",
-    "imports": [
-      "_chunk-b1dc20a8.js"
-    ]
   },
   "_chunk-e027ba8d.js": {
     "file": "assets/chunks/chunk-e027ba8d.js"
@@ -24,7 +24,7 @@
       "src/renderer/_error.page.vue",
       "src/renderer/_default.page.client.ts"
     ],
-    "file": "assets/entries/entry-server-routing.905da360.js",
+    "file": "assets/entries/entry-server-routing.a7bb90f1.js",
     "imports": [
       "_chunk-e027ba8d.js"
     ],
@@ -41,7 +41,7 @@
       "src/renderer/_error.page.vue",
       "src/renderer/_default.page.client.ts"
     ],
-    "file": "assets/entries/entry-client-routing.793191c0.js",
+    "file": "assets/entries/entry-client-routing.59f1ee04.js",
     "imports": [
       "_chunk-e027ba8d.js"
     ],
@@ -65,7 +65,7 @@
     "src": "src/assets/images/spitz-3.jpg"
   },
   "src/pages/article.page.css": {
-    "file": "assets/static/article.page.db900eef.css",
+    "file": "assets/static/article.page.ffb1f642.css",
     "src": "src/pages/article.page.css"
   },
   "src/pages/article.page.vue": {
@@ -75,12 +75,12 @@
       "assets/static/spitz-3.bf1b349a.jpg"
     ],
     "css": [
-      "assets/static/article.page.db900eef.css"
+      "assets/static/article.page.ffb1f642.css"
     ],
-    "file": "assets/entries/src_pages_article.page.902dd982.js",
+    "file": "assets/entries/src_pages_article.page.e182981f.js",
     "imports": [
-      "_chunk-c95650c5.js",
-      "_chunk-b1dc20a8.js",
+      "_chunk-5ee7714d.js",
+      "_chunk-b5dbc5eb.js",
       "_chunk-c27b6911.js"
     ],
     "isDynamicEntry": true,
@@ -95,10 +95,10 @@
     "css": [
       "assets/static/care.page.324b9d81.css"
     ],
-    "file": "assets/entries/src_pages_care.page.ed2c9b46.js",
+    "file": "assets/entries/src_pages_care.page.3a979c8c.js",
     "imports": [
       "_chunk-c27b6911.js",
-      "_chunk-b1dc20a8.js"
+      "_chunk-b5dbc5eb.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
@@ -112,9 +112,9 @@
     "css": [
       "assets/static/gallery.page.857a95b0.css"
     ],
-    "file": "assets/entries/src_pages_gallery.page.a76f7af8.js",
+    "file": "assets/entries/src_pages_gallery.page.481a07bd.js",
     "imports": [
-      "_chunk-b1dc20a8.js",
+      "_chunk-b5dbc5eb.js",
       "_chunk-c27b6911.js"
     ],
     "isDynamicEntry": true,
@@ -132,10 +132,10 @@
     "css": [
       "assets/static/index.page.1a0e0060.css"
     ],
-    "file": "assets/entries/src_pages_index.page.1557c2c8.js",
+    "file": "assets/entries/src_pages_index.page.71cf1ee1.js",
     "imports": [
       "_chunk-c27b6911.js",
-      "_chunk-b1dc20a8.js"
+      "_chunk-b5dbc5eb.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
@@ -149,10 +149,10 @@
     "css": [
       "assets/static/similar-breeds.page.8fbf8f08.css"
     ],
-    "file": "assets/entries/src_pages_similar-breeds.page.20bc2f68.js",
+    "file": "assets/entries/src_pages_similar-breeds.page.bddf48cb.js",
     "imports": [
-      "_chunk-c95650c5.js",
-      "_chunk-b1dc20a8.js",
+      "_chunk-5ee7714d.js",
+      "_chunk-b5dbc5eb.js",
       "_chunk-c27b6911.js"
     ],
     "isDynamicEntry": true,
@@ -167,9 +167,9 @@
     "css": [
       "assets/static/default.page.client.32ed80cb.css"
     ],
-    "file": "assets/entries/src_renderer_default.page.client.5f43c069.js",
+    "file": "assets/entries/src_renderer_default.page.client.d08805f0.js",
     "imports": [
-      "_chunk-b1dc20a8.js",
+      "_chunk-b5dbc5eb.js",
       "_chunk-c27b6911.js"
     ],
     "isDynamicEntry": true,
@@ -177,9 +177,9 @@
     "src": "src/renderer/_default.page.client.ts"
   },
   "src/renderer/_error.page.vue": {
-    "file": "assets/entries/src_renderer_error.page.80933691.js",
+    "file": "assets/entries/src_renderer_error.page.e299e138.js",
     "imports": [
-      "_chunk-b1dc20a8.js"
+      "_chunk-b5dbc5eb.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
