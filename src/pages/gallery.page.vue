@@ -8,7 +8,7 @@
         <meta property="description" content="A stunning photo of a dog." />
       </div>
     </div>
-    <a href="/imt-doggos/article">Dive into the realm of Finnish dogs, with a special focus on the Finnish Spitz.</a>
+    <a href="/imt-doggos/about-finnish-dogs">Dive into the realm of Finnish dogs, with a special focus on the Finnish Spitz.</a>
   </main>
 </template>
 

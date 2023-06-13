@@ -72,7 +72,7 @@
         </ul>
       </section>
     </article>
-    <a href="/imt-doggos/article">Discover more about the world of Finnish dogs, particularly the Finnish Spitz.</a>
+    <a href="/imt-doggos/about-finnish-dogs">Discover more about the world of Finnish dogs, particularly the Finnish Spitz.</a>
   </div>
 </template>
 
