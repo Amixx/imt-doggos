@@ -1,49 +1,56 @@
 <template>
   <article class="finnish-spitz-page" vocab="https://schema.org/" typeof="WebPage">
-    <h1 class="title" property="name">Finnish Spitz: The National Dog of Finland</h1>
+    <h1 class="title" property="name">Discover the Finnish Spitz: The Fascinating National Dog of Finland</h1>
 
-    <img class="image-placeholder" src="@/assets/images/spitz-1.jpg" alt="Finnish Spitz" property="primaryImageOfPage" />
+    <img class="image-placeholder" src="@/assets/images/spitz-1.jpg" alt="An enchanting Finnish Spitz"
+      property="primaryImageOfPage" />
 
     <p property="description">
-      The Finnish Spitz is a medium-sized dog breed known for its fox-like appearance, lively temperament, and
-      intelligence. Originating from Finland, the Finnish Spitz is often called Suomenpystykorva or Finsk Spets in its
-      native country. As the national dog of Finland, this breed has a long and storied history as both a hunting dog
-      and a loyal companion.
+      Explore the world of the Finnish Spitz, a medium-sized breed famed for its fox-like appearance, lively temperament,
+      and exceptional intelligence. This captivating breed, known as Suomenpystykorva or Finsk Spets in Finland, holds the
+      title of the national dog. The Finnish Spitz boasts a rich history, renowned as a proficient hunting dog and
+      cherished companion. Find out more about other fascinating breeds on our <a href="/similar-breeds">similar
+        breeds</a> page.
     </p>
 
-    <img class="image-placeholder" src="@/assets/images/spitz-2.jpg" alt="Finnish Spitz in nature" />
+    <img class="image-placeholder" src="@/assets/images/spitz-2.jpg"
+      alt="Finnish Spitz appreciating the beauty of nature" />
 
     <div typeof="Product">
-      <h2 property="name">Appearance</h2>
+      <h2 property="name">What Makes the Finnish Spitz Unique: Appearance</h2>
       <p property="description">
-        Finnish Spitz dogs have a distinctive look, characterized by their red-gold coat, pointed ears, and curled tail.
-        They have a square, well-proportioned build, and their size typically ranges from 15 to 20 inches tall at the
-        shoulder, with a weight of 31 to 35 pounds for males and 22 to 29 pounds for females.
+        Finnish Spitz dogs grace their owners with a unique and distinctive appearance. Their red-gold coat, pointed ears,
+        and gracefully curled tail are their hallmark features. They display a well-proportioned, square build, typically
+        standing 15 to 20 inches tall at the shoulder. Males can weigh between 31 to 35 pounds, while females usually
+        range from 22 to 29 pounds. Discover a beautiful collection of Finnish Spitz pictures in our <a
+          href="/gallery">gallery</a>.
       </p>
 
-      <h2 property="name">Temperament</h2>
+      <h2 property="name">Understanding the Finnish Spitz: Temperament</h2>
       <p property="description">
-        Finnish Spitz dogs are known for their friendly and alert nature. They are highly intelligent, making them
-        relatively easy to train, and their natural curiosity keeps them engaged in their surroundings. As a social
-        breed, they thrive on human interaction and are very loyal to their families.
+        Known for their friendly demeanor and alert nature, Finnish Spitz dogs radiate intelligence, making training a
+        breeze. Their natural curiosity keeps them actively engaged with their environment. As a sociable breed, they
+        thrive on human interaction and are remarkably loyal to their families.
       </p>
 
-      <img class="image-placeholder" src="@/assets/images/spitz-3.jpg" alt="Finnish Spitz with family" property="image" />
+      <img class="image-placeholder" src="@/assets/images/spitz-3.jpg" alt="Finnish Spitz enjoying family time"
+        property="image" />
 
-      <h2 property="name">Socialization and Training</h2>
+      <h2 property="name">Raising a Finnish Spitz: Socialization and Training</h2>
       <p property="description">
-        Early socialization and consistent training are essential for Finnish Spitz dogs. As a breed originally bred for
-        hunting, they have a strong prey drive and may be inclined to chase smaller animals. Exposing them to different
-        people, animals, and environments from a young age can help prevent unwanted behaviors and ensure they grow up
-        to
-        be well-rounded, confident dogs.
+        Finnish Spitz dogs benefit from early socialization and consistent training. Bred originally for hunting, these
+        dogs possess a strong prey drive and may chase smaller animals. Therefore, early exposure to a variety of people,
+        animals, and environments is essential. This early exposure can deter unwanted behaviors and ensure the
+        development of a well-rounded, confident Finnish Spitz. For more tips on training and care, visit our <a
+          href="/care">care</a> page.
       </p>
 
-      <h2 property="name">Exercise and Grooming</h2>
+      <h2 property="name">Maintaining a Healthy Finnish Spitz: Exercise and Grooming</h2>
       <p property="description">
-        Finnish Spitz dogs are energetic and require daily exercise to keep them mentally and physically fit. Regular
-        walks, play sessions, and engaging activities like agility or obedience training can help keep them happy and
-        healthy. Their dense double coat requires weekly brushing to remove loose hair and minimize shedding.
+        Finnish Spitz dogs are active and need daily exercise for mental and physical fitness. Regular walks, play
+        sessions, and engaging activities like agility or obedience training can help keep them content and healthy. Their
+        dense double coat requires weekly brushing to remove loose hair and minimize shedding. Return to our <a
+          href="/">home</a> page to explore more about Finnish Spitz and other breeds.
       </p>
       <Rating :rating="{ breedName: 'Finnish Spitz', ratingValue: 4.8, bestRating: 5 }" />
     </div>
@@ -89,5 +96,4 @@ h2 {
 p {
   text-align: justify;
   line-height: 1.6;
-}
-</style>
+}</style>
