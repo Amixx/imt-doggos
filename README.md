@@ -47,6 +47,6 @@ yarn test:unit
 
 ### Lint with [ESLint](https://eslint.org/)
 
-```sh
+```sh`
 yarn lint
 ```
