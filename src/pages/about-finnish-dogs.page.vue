@@ -2,8 +2,7 @@
   <article class="finnish-spitz-page" vocab="https://schema.org/" typeof="WebPage">
     <h1 class="title" property="name">Finnish Spitz: The National Dog of Finland</h1>
 
-    <img class="image-placeholder" src="@/assets/images/spitz-1.jpg" alt="Finnish Spitz"
-         property="primaryImageOfPage" />
+    <img class="image-placeholder" src="@/assets/images/spitz-1.jpg" alt="Finnish Spitz" property="primaryImageOfPage" />
 
     <p property="description">
       The Finnish Spitz is a medium-sized dog breed known for its fox-like appearance, lively temperament, and
@@ -29,8 +28,7 @@
         breed, they thrive on human interaction and are very loyal to their families.
       </p>
 
-      <img class="image-placeholder" src="@/assets/images/spitz-3.jpg" alt="Finnish Spitz with family"
-           property="image" />
+      <img class="image-placeholder" src="@/assets/images/spitz-3.jpg" alt="Finnish Spitz with family" property="image" />
 
       <h2 property="name">Socialization and Training</h2>
       <p property="description">
@@ -56,7 +54,7 @@
 export const documentProps = {
   title: "Article",
   description: "Learn about the Finnish Spitz, the national dog of Finland. Discover its distinctive look, temperament, training needs, and care tips. The page also features a user-based rating of the breed."
-};
+}
 </script>
 <script setup lang="ts">
 import Rating from "../components/Rating.vue";

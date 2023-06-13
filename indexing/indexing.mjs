@@ -1,5 +1,5 @@
 import request from 'request'
-import {google} from 'googleapis'
+import { google } from 'googleapis'
 import key from './sunlit-ace-387205-c615e262206d.json' assert {type: "json"}
 
 const jwtClient = new google.auth.JWT(
@@ -13,7 +13,7 @@ const jwtClient = new google.auth.JWT(
 const siteUrls = [
   '/',
   '/gallery',
-  '/article',
+  '/about-finnish-dogs',
   '/similar-breeds',
   '/care'
 ]
@@ -33,7 +33,7 @@ const createOptions = (tokens, url) => ({
   }
 })
 
-jwtClient.authorize(function(err, tokens) {
+jwtClient.authorize(function (err, tokens) {
   if (err) {
     console.log(err);
     return;

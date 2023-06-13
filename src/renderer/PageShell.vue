@@ -7,7 +7,9 @@
         </nav>
       </div>
     </header>
-    <div class="content"><slot /></div>
+    <div class="content">
+      <slot />
+    </div>
   </div>
 </template>
 
@@ -25,8 +27,8 @@ const navItems = [
     path: import.meta.env.BASE_URL + `gallery`
   },
   {
-    name: 'Article',
-    path: import.meta.env.BASE_URL + `article`
+    name: 'About finnish dogs',
+    path: import.meta.env.BASE_URL + `about-finnish-dogs`
   },
   {
     name: 'Similar breeds',
@@ -44,14 +46,14 @@ body {
   margin: 0;
   font-family: sans-serif;
 }
-
 </style>
 
 <style scoped>
 .layout {
   margin: auto;
-    max-width: 1280px;
+  max-width: 1280px;
 }
+
 .content {
   padding: 20px;
   padding-bottom: 50px;
@@ -59,28 +61,28 @@ body {
 }
 
 header {
-    line-height: 1.5;
-    max-height: 100vh;
+  line-height: 1.5;
+  max-height: 100vh;
 }
 
 nav {
-    width: 100%;
-    padding: 16px 48px;
-    font-size: 12px;
-    text-align: center;
+  width: 100%;
+  padding: 16px 48px;
+  font-size: 12px;
+  text-align: center;
 }
 
 
 
 @media (min-width: 1024px) {
-    header .wrapper {
-        display: flex;
-        place-items: flex-start;
-        flex-wrap: wrap;
-    }
+  header .wrapper {
+    display: flex;
+    place-items: flex-start;
+    flex-wrap: wrap;
+  }
 
-    nav {
-        font-size: 1rem;
-    }
+  nav {
+    font-size: 1rem;
+  }
 }
 </style>
