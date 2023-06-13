@@ -2,8 +2,8 @@
   <article class="finnish-spitz-page" vocab="https://schema.org/" typeof="WebPage">
     <h1 class="title" property="name">Discover the Finnish Spitz: The Fascinating National Dog of Finland</h1>
 
-    <img class="image-placeholder" src="@/assets/images/spitz-1.jpg" alt="An enchanting Finnish Spitz"
-      property="primaryImageOfPage" />
+    <img class="image-placeholder" src="@/assets/images/spitz-1.jpg"
+      alt="An enchanting Finnish Spitz dog showcasing its red-gold coat" property="primaryImageOfPage" />
 
     <p property="description">
       Explore the world of the Finnish Spitz, a medium-sized breed famed for its fox-like appearance, lively temperament,
@@ -14,7 +14,7 @@
     </p>
 
     <img class="image-placeholder" src="@/assets/images/spitz-2.jpg"
-      alt="Finnish Spitz appreciating the beauty of nature" />
+      alt="Finnish Spitz dog in a natural habitat displaying its alert and curious nature next to a hunter" />
 
     <div typeof="Product">
       <h2 property="name">What Makes the Finnish Spitz Unique: Appearance</h2>
@@ -33,8 +33,8 @@
         thrive on human interaction and are remarkably loyal to their families.
       </p>
 
-      <img class="image-placeholder" src="@/assets/images/spitz-3.jpg" alt="Finnish Spitz enjoying family time"
-        property="image" />
+      <img class="image-placeholder" src="@/assets/images/spitz-3.jpg"
+        alt="A friendly Finnish Spitz pup enjoying a day out with its family" property="image" />
 
       <h2 property="name">Raising a Finnish Spitz: Socialization and Training</h2>
       <p property="description">
@@ -96,4 +96,5 @@ h2 {
 p {
   text-align: justify;
   line-height: 1.6;
-}</style>
+}
+</style>
