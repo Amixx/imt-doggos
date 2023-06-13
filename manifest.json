@@ -1,12 +1,12 @@
 {
-  "_chunk-5ee7714d.js": {
-    "file": "assets/chunks/chunk-5ee7714d.js",
-    "imports": [
-      "_chunk-b5dbc5eb.js"
-    ]
+  "_chunk-4d94e443.js": {
+    "file": "assets/chunks/chunk-4d94e443.js"
   },
-  "_chunk-b5dbc5eb.js": {
-    "file": "assets/chunks/chunk-b5dbc5eb.js"
+  "_chunk-6cc8740a.js": {
+    "file": "assets/chunks/chunk-6cc8740a.js",
+    "imports": [
+      "_chunk-4d94e443.js"
+    ]
   },
   "_chunk-c27b6911.js": {
     "file": "assets/chunks/chunk-c27b6911.js"
@@ -16,7 +16,7 @@
   },
   "node_modules/vite-plugin-ssr/dist/esm/client/entry.js": {
     "dynamicImports": [
-      "src/pages/article.page.vue",
+      "src/pages/about-finnish-dogs.page.vue",
       "src/pages/care.page.vue",
       "src/pages/gallery.page.vue",
       "src/pages/index.page.vue",
@@ -24,7 +24,7 @@
       "src/renderer/_error.page.vue",
       "src/renderer/_default.page.client.ts"
     ],
-    "file": "assets/entries/entry-server-routing.45ae1ff0.js",
+    "file": "assets/entries/entry-server-routing.a88b7ee5.js",
     "imports": [
       "_chunk-e027ba8d.js"
     ],
@@ -33,7 +33,7 @@
   },
   "node_modules/vite-plugin-ssr/dist/esm/client/router/entry.js": {
     "dynamicImports": [
-      "src/pages/article.page.vue",
+      "src/pages/about-finnish-dogs.page.vue",
       "src/pages/care.page.vue",
       "src/pages/gallery.page.vue",
       "src/pages/index.page.vue",
@@ -41,7 +41,7 @@
       "src/renderer/_error.page.vue",
       "src/renderer/_default.page.client.ts"
     ],
-    "file": "assets/entries/entry-client-routing.7235e228.js",
+    "file": "assets/entries/entry-client-routing.8d3a4dad.js",
     "imports": [
       "_chunk-e027ba8d.js"
     ],
@@ -64,28 +64,28 @@
     "file": "assets/static/spitz-3.bf1b349a.jpg",
     "src": "src/assets/images/spitz-3.jpg"
   },
-  "src/pages/article.page.css": {
-    "file": "assets/static/article.page.ffb1f642.css",
-    "src": "src/pages/article.page.css"
+  "src/pages/about-finnish-dogs.page.css": {
+    "file": "assets/static/about-finnish-dogs.page.fac8a301.css",
+    "src": "src/pages/about-finnish-dogs.page.css"
   },
-  "src/pages/article.page.vue": {
+  "src/pages/about-finnish-dogs.page.vue": {
     "assets": [
       "assets/static/spitz-1.d56fe654.jpg",
       "assets/static/spitz-2.1b13e2bb.jpg",
       "assets/static/spitz-3.bf1b349a.jpg"
     ],
     "css": [
-      "assets/static/article.page.ffb1f642.css"
+      "assets/static/about-finnish-dogs.page.fac8a301.css"
     ],
-    "file": "assets/entries/src_pages_article.page.e182981f.js",
+    "file": "assets/entries/src_pages_about-finnish-dogs.page.42c2e380.js",
     "imports": [
-      "_chunk-5ee7714d.js",
-      "_chunk-b5dbc5eb.js",
+      "_chunk-6cc8740a.js",
+      "_chunk-4d94e443.js",
       "_chunk-c27b6911.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
-    "src": "src/pages/article.page.vue"
+    "src": "src/pages/about-finnish-dogs.page.vue"
   },
   "src/pages/care.page.css": {
     "file": "assets/static/care.page.324b9d81.css",
@@ -95,10 +95,10 @@
     "css": [
       "assets/static/care.page.324b9d81.css"
     ],
-    "file": "assets/entries/src_pages_care.page.3a979c8c.js",
+    "file": "assets/entries/src_pages_care.page.ebe9aee5.js",
     "imports": [
       "_chunk-c27b6911.js",
-      "_chunk-b5dbc5eb.js"
+      "_chunk-4d94e443.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
@@ -112,9 +112,9 @@
     "css": [
       "assets/static/gallery.page.857a95b0.css"
     ],
-    "file": "assets/entries/src_pages_gallery.page.481a07bd.js",
+    "file": "assets/entries/src_pages_gallery.page.1c941f31.js",
     "imports": [
-      "_chunk-b5dbc5eb.js",
+      "_chunk-4d94e443.js",
       "_chunk-c27b6911.js"
     ],
     "isDynamicEntry": true,
@@ -132,10 +132,10 @@
     "css": [
       "assets/static/index.page.1a0e0060.css"
     ],
-    "file": "assets/entries/src_pages_index.page.71cf1ee1.js",
+    "file": "assets/entries/src_pages_index.page.a4d1aca3.js",
     "imports": [
       "_chunk-c27b6911.js",
-      "_chunk-b5dbc5eb.js"
+      "_chunk-4d94e443.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
@@ -149,10 +149,10 @@
     "css": [
       "assets/static/similar-breeds.page.77d25a0d.css"
     ],
-    "file": "assets/entries/src_pages_similar-breeds.page.eb59ab44.js",
+    "file": "assets/entries/src_pages_similar-breeds.page.a4e784db.js",
     "imports": [
-      "_chunk-5ee7714d.js",
-      "_chunk-b5dbc5eb.js",
+      "_chunk-6cc8740a.js",
+      "_chunk-4d94e443.js",
       "_chunk-c27b6911.js"
     ],
     "isDynamicEntry": true,
@@ -160,16 +160,16 @@
     "src": "src/pages/similar-breeds.page.vue"
   },
   "src/renderer/_default.page.client.css": {
-    "file": "assets/static/default.page.client.32ed80cb.css",
+    "file": "assets/static/default.page.client.c2115ace.css",
     "src": "src/renderer/_default.page.client.css"
   },
   "src/renderer/_default.page.client.ts": {
     "css": [
-      "assets/static/default.page.client.32ed80cb.css"
+      "assets/static/default.page.client.c2115ace.css"
     ],
-    "file": "assets/entries/src_renderer_default.page.client.d08805f0.js",
+    "file": "assets/entries/src_renderer_default.page.client.2a0cf7f8.js",
     "imports": [
-      "_chunk-b5dbc5eb.js",
+      "_chunk-4d94e443.js",
       "_chunk-c27b6911.js"
     ],
     "isDynamicEntry": true,
@@ -177,9 +177,9 @@
     "src": "src/renderer/_default.page.client.ts"
   },
   "src/renderer/_error.page.vue": {
-    "file": "assets/entries/src_renderer_error.page.e299e138.js",
+    "file": "assets/entries/src_renderer_error.page.71d2c197.js",
     "imports": [
-      "_chunk-b5dbc5eb.js"
+      "_chunk-4d94e443.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
