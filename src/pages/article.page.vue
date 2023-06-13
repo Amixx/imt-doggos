@@ -13,6 +13,7 @@
     </p>
 
     <img class="image-placeholder" src="@/assets/images/spitz-2.jpg" alt="Finnish Spitz in nature" />
+    <a href="/imt-doggos/gallery" rel="nofollow">See more pictures of dogs in out gallery!</a>
 
     <div typeof="Product">
       <h2 property="name">Appearance</h2>
@@ -40,6 +41,7 @@
         to
         be well-rounded, confident dogs.
       </p>
+      <a href="/imt-doggos/similar-breeds" rel="nofollow">Discover similar breeds to this one!</a>
 
       <h2 property="name">Exercise and Grooming</h2>
       <p property="description">
