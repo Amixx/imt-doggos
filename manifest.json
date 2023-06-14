@@ -24,7 +24,7 @@
       "src/renderer/_error.page.vue",
       "src/renderer/_default.page.client.ts"
     ],
-    "file": "assets/entries/entry-server-routing.bf31aec8.js",
+    "file": "assets/entries/entry-server-routing.10af3961.js",
     "imports": [
       "_chunk-e027ba8d.js"
     ],
@@ -41,7 +41,7 @@
       "src/renderer/_error.page.vue",
       "src/renderer/_default.page.client.ts"
     ],
-    "file": "assets/entries/entry-client-routing.d93ac607.js",
+    "file": "assets/entries/entry-client-routing.cc49aaff.js",
     "imports": [
       "_chunk-e027ba8d.js"
     ],
@@ -65,7 +65,7 @@
     "src": "src/assets/images/spitz-3.jpg"
   },
   "src/pages/about-finnish-dogs.page.css": {
-    "file": "assets/static/about-finnish-dogs.page.4e72f4a6.css",
+    "file": "assets/static/about-finnish-dogs.page.8415cfca.css",
     "src": "src/pages/about-finnish-dogs.page.css"
   },
   "src/pages/about-finnish-dogs.page.vue": {
@@ -75,9 +75,9 @@
       "assets/static/spitz-3.bf1b349a.jpg"
     ],
     "css": [
-      "assets/static/about-finnish-dogs.page.4e72f4a6.css"
+      "assets/static/about-finnish-dogs.page.8415cfca.css"
     ],
-    "file": "assets/entries/src_pages_about-finnish-dogs.page.ac26d005.js",
+    "file": "assets/entries/src_pages_about-finnish-dogs.page.de536524.js",
     "imports": [
       "_chunk-6cc8740a.js",
       "_chunk-4d94e443.js",
@@ -88,14 +88,14 @@
     "src": "src/pages/about-finnish-dogs.page.vue"
   },
   "src/pages/care.page.css": {
-    "file": "assets/static/care.page.324b9d81.css",
+    "file": "assets/static/care.page.cd2f3f40.css",
     "src": "src/pages/care.page.css"
   },
   "src/pages/care.page.vue": {
     "css": [
-      "assets/static/care.page.324b9d81.css"
+      "assets/static/care.page.cd2f3f40.css"
     ],
-    "file": "assets/entries/src_pages_care.page.ebe9aee5.js",
+    "file": "assets/entries/src_pages_care.page.9784a9dd.js",
     "imports": [
       "_chunk-c27b6911.js",
       "_chunk-4d94e443.js"
@@ -105,14 +105,14 @@
     "src": "src/pages/care.page.vue"
   },
   "src/pages/gallery.page.css": {
-    "file": "assets/static/gallery.page.857a95b0.css",
+    "file": "assets/static/gallery.page.f4fb1dc4.css",
     "src": "src/pages/gallery.page.css"
   },
   "src/pages/gallery.page.vue": {
     "css": [
-      "assets/static/gallery.page.857a95b0.css"
+      "assets/static/gallery.page.f4fb1dc4.css"
     ],
-    "file": "assets/entries/src_pages_gallery.page.1c941f31.js",
+    "file": "assets/entries/src_pages_gallery.page.0f5ac1a9.js",
     "imports": [
       "_chunk-4d94e443.js",
       "_chunk-c27b6911.js"
@@ -122,7 +122,7 @@
     "src": "src/pages/gallery.page.vue"
   },
   "src/pages/index.page.css": {
-    "file": "assets/static/index.page.1a0e0060.css",
+    "file": "assets/static/index.page.48fd3ce2.css",
     "src": "src/pages/index.page.css"
   },
   "src/pages/index.page.vue": {
@@ -130,9 +130,9 @@
       "assets/static/hero.737dd5b7.jpg"
     ],
     "css": [
-      "assets/static/index.page.1a0e0060.css"
+      "assets/static/index.page.48fd3ce2.css"
     ],
-    "file": "assets/entries/src_pages_index.page.a4d1aca3.js",
+    "file": "assets/entries/src_pages_index.page.708acb43.js",
     "imports": [
       "_chunk-c27b6911.js",
       "_chunk-4d94e443.js"
@@ -142,14 +142,14 @@
     "src": "src/pages/index.page.vue"
   },
   "src/pages/similar-breeds.page.css": {
-    "file": "assets/static/similar-breeds.page.77d25a0d.css",
+    "file": "assets/static/similar-breeds.page.3361574f.css",
     "src": "src/pages/similar-breeds.page.css"
   },
   "src/pages/similar-breeds.page.vue": {
     "css": [
-      "assets/static/similar-breeds.page.77d25a0d.css"
+      "assets/static/similar-breeds.page.3361574f.css"
     ],
-    "file": "assets/entries/src_pages_similar-breeds.page.a4e784db.js",
+    "file": "assets/entries/src_pages_similar-breeds.page.729159ef.js",
     "imports": [
       "_chunk-6cc8740a.js",
       "_chunk-4d94e443.js",
@@ -160,14 +160,14 @@
     "src": "src/pages/similar-breeds.page.vue"
   },
   "src/renderer/_default.page.client.css": {
-    "file": "assets/static/default.page.client.c2115ace.css",
+    "file": "assets/static/default.page.client.d6b922c8.css",
     "src": "src/renderer/_default.page.client.css"
   },
   "src/renderer/_default.page.client.ts": {
     "css": [
-      "assets/static/default.page.client.c2115ace.css"
+      "assets/static/default.page.client.d6b922c8.css"
     ],
-    "file": "assets/entries/src_renderer_default.page.client.2a0cf7f8.js",
+    "file": "assets/entries/src_renderer_default.page.client.3b939318.js",
     "imports": [
       "_chunk-4d94e443.js",
       "_chunk-c27b6911.js"
