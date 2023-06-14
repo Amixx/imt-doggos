@@ -24,7 +24,7 @@
       "src/renderer/_error.page.vue",
       "src/renderer/_default.page.client.ts"
     ],
-    "file": "assets/entries/entry-server-routing.a88b7ee5.js",
+    "file": "assets/entries/entry-server-routing.bf31aec8.js",
     "imports": [
       "_chunk-e027ba8d.js"
     ],
@@ -41,7 +41,7 @@
       "src/renderer/_error.page.vue",
       "src/renderer/_default.page.client.ts"
     ],
-    "file": "assets/entries/entry-client-routing.8d3a4dad.js",
+    "file": "assets/entries/entry-client-routing.d93ac607.js",
     "imports": [
       "_chunk-e027ba8d.js"
     ],
@@ -65,7 +65,7 @@
     "src": "src/assets/images/spitz-3.jpg"
   },
   "src/pages/about-finnish-dogs.page.css": {
-    "file": "assets/static/about-finnish-dogs.page.fac8a301.css",
+    "file": "assets/static/about-finnish-dogs.page.4e72f4a6.css",
     "src": "src/pages/about-finnish-dogs.page.css"
   },
   "src/pages/about-finnish-dogs.page.vue": {
@@ -75,9 +75,9 @@
       "assets/static/spitz-3.bf1b349a.jpg"
     ],
     "css": [
-      "assets/static/about-finnish-dogs.page.fac8a301.css"
+      "assets/static/about-finnish-dogs.page.4e72f4a6.css"
     ],
-    "file": "assets/entries/src_pages_about-finnish-dogs.page.42c2e380.js",
+    "file": "assets/entries/src_pages_about-finnish-dogs.page.ac26d005.js",
     "imports": [
       "_chunk-6cc8740a.js",
       "_chunk-4d94e443.js",
