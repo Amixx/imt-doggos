@@ -21,6 +21,7 @@
         <Rating :rating="breed.rating" />
       </li>
     </ul>
+    <a href="/imt-doggos/about-finnish-dogs">Expand your knowledge of Finnish dogs, especially the unique breed of the Finnish Spitz.</a>
   </div>
 </template>
 

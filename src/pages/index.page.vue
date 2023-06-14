@@ -22,6 +22,7 @@
         good with children and other pets, although early socialization is essential.
       </p>
     </div>
+    <a href="/imt-doggos/about-finnish-dogs">Learn more about Finnish dogs, specifically the Finnish Spitz</a>
   </div>
 </template>
 

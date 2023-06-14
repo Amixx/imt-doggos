@@ -3,7 +3,12 @@
     <header>
       <div class="wrapper">
         <nav>
-          <Link v-for="navItem in navItems" :href="navItem.path" :key="navItem.path">{{ navItem.name }}</Link>
+          <Link
+            v-for="navItem in navItems"
+            :href="navItem.path"
+            :key="navItem.path"
+            rel="nofollow"
+          >{{ navItem.name }}</Link>
         </nav>
       </div>
     </header>
